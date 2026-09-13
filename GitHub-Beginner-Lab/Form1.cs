@@ -16,5 +16,15 @@ namespace GitHub_Beginner_Lab
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtyearlevel_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
